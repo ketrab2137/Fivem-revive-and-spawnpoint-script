@@ -4,5 +4,6 @@ Fivem script that lets you revive yourselt at the place you died or create a spa
 
 
 
-To install just drop it in your resources folder and add it to server.cfg
-it requires you to add baseevent to the server.cfg
+To install just drop it in your resources folder and add it to server.cfg.
+
+It requires you to add baseevent to the server.cfg

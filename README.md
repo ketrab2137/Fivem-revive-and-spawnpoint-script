@@ -1,5 +1,5 @@
 # Fivem-revive-and-spawnpoint-script
-Fivem script that lets you revive yourselt at the place you died or create a spawnpoint
+Fivem script that lets you revive yourself at the place you died or create a spawnpoint
 
 
 
